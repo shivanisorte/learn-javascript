@@ -7,3 +7,7 @@ function increment() {
 }
 
 
+//document - html document
+//object - the datatype
+//model - representation of the real thing
+//manipulation

@@ -11,3 +11,4 @@ function save() {
 }
 
 
+//strings- datatype, wrap in single/double quotes
