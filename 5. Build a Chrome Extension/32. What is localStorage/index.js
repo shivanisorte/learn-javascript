@@ -22,3 +22,7 @@ function renderLeads() {
     }
     ulEl.innerHTML = listItems  
 }
+
+
+// localStorage.clear()
+// localStorage.setItem("myLead",'url')

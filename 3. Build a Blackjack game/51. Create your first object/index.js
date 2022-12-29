@@ -3,3 +3,12 @@
 // Log out at least two of the keys using the dot notation
 
 
+airbnb = {
+    title: "live like a queen",
+    price:250,
+    isSuperHost:false
+}
+
+console.log(airbnb.title)
+console.log(airbnb.price)
+console.log(airbnb.isSuperHost)

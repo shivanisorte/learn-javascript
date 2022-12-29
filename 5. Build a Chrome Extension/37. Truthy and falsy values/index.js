@@ -20,7 +20,7 @@ let currentViewers = null
 
 currentViewers = ["jane", "nick"]
 
-currentViewers = null
+// currentViewers = null
 
 if (currentViewers) {
     // do something , e.g. notify the live streamers
